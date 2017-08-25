@@ -1,0 +1,7 @@
+{
+  "atom-workspace": {
+    "f12": "atom-reval:reload-current-file",
+    "shift-f12": "atom-reval:clear-current-file",
+    "f13": "atom-reval:clear-all-files"  
+  }
+}

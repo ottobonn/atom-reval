@@ -1,0 +1,15 @@
+{
+  "name": "atom-reval",
+  "main": "./lib/atom-reval",
+  "version": "0.0.0",
+  "description": "Qualia reval in Atom",
+  "keywords": [
+  ],
+  "repository": "https://github.com/ottobonn/atom-reval",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

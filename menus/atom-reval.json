@@ -1,0 +1,29 @@
+{
+  "context-menu": {
+    "atom-text-editor": []
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Reval",
+          "submenu": [
+            {
+              "label": "Reload Current File",
+              "command": "atom-reval:reload-current-file"
+            },
+            {
+              "label": "Clear Current File",
+              "command": "atom-reval:clear-current-file"
+            },
+            {
+              "label": "Clear All Files",
+              "command": "atom-reval:clear-all-files"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
